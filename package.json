@@ -1,0 +1,22 @@
+{
+  "name": "twitter-lite",
+  "version": "1.0.0",
+  "description": "year progress twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nischalstha/twitter-year-progress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nischalstha/twitter-year-progress/issues"
+  },
+  "homepage": "https://github.com/nischalstha/twitter-year-progress#readme",
+  "dependencies": {
+    "twitter-lite": "^1.1.0"
+  }
+}
